@@ -130,8 +130,9 @@ nav ul li a:hover::after{
     z-index: 100;
     left: 0;
     top: 0;
-    width: 100vw;
+    width: 100%;
     height: max-content;
+    background-Color: rgb(70, 0, 0);
 }
 
 #header .nav-bar {
